@@ -1,0 +1,14 @@
+[
+  {
+    "role": "Yonetici",
+    "ad": "Mehemt",
+    "soyad": "Yılmaz",
+    "maas": 11000
+  },
+  {
+    "role": "Memur",
+    "ad": "Ahmet",
+    "soyad": "Kaya",
+    "maas": 7000
+  }
+]
